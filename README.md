@@ -26,3 +26,7 @@
 -> <img src="https://github.com/Geek-Tekina/Job-Dekho/blob/main/Screenshot%20(213).png">
 <hr>
 
+### Job Seeker applying for the job
+-> <img src="https://github.com/Geek-Tekina/Job-Dekho/blob/main/Screenshot%20(214).png">
+<hr>
+
