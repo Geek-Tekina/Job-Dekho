@@ -22,3 +22,7 @@
 -> <img src="https://github.com/Geek-Tekina/Job-Dekho/blob/main/Screenshot%20(212).png">
 <hr>
 
+### Employer Adding A job on the portal
+-> <img src="https://github.com/Geek-Tekina/Job-Dekho/blob/main/Screenshot%20(213).png">
+<hr>
+
