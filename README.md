@@ -1,5 +1,5 @@
 ### A job portal app for applying and listing of job opportunities for Bipin Tripathi Kumaon Institute of Technology.
-### Live demo -> https://www.youtube.com/watch?v=mHpfnOyaV4g
+### Live -> https://jobdekho-mern.netlify.app/
 <hr>
 
 ### Features
